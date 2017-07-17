@@ -26,3 +26,5 @@ sudo apt-get install python-unidecode
 pip3 install unidecode
 
 sudo apt install python-pytest
+
+pip3 install pytest

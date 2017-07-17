@@ -5,6 +5,12 @@ Web crawler program for the page 'Hacker news'.
 This program is a minimlist example of web crawling using scraping techniques.
 This program only works for the page 'https://news.ycombinator.com/'.
 
+In order to run the webcrawler (Ubuntu): ./webcrawler.py
+
+Other SO: python3 webcrawler.py
+
+In order to run the tests: py.test
+
 This program was tested in Ubuntu 16.04
 
 How to install the dependencies:
